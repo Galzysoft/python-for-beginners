@@ -4,7 +4,7 @@ b=40
 print(a+b)
 # / division
 print(a/b)
-# // rpunding off division
+# // rpunding off divisionhj
 print(a//b)
 # < lessthan >greater than
 print(a<b)
